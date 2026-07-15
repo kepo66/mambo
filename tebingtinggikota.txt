@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="id">
   <head
-    prefix="og: https://perpustakaan.tebingtinggikota.go.id/opac/ fb: https://perpustakaan.tebingtinggikota.go.id/opac/ product: https://perpustakaan.tebingtinggikota.go.id/opac/"
+    prefix="og: https://perpustakaan.tebingtinggikota.go.id/ fb: https://perpustakaan.tebingtinggikota.go.id/ product: https://perpustakaan.tebingtinggikota.go.id/"
   >
     <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
     <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
@@ -2101,7 +2101,7 @@
     />
     <link
       rel="canonical"
-      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+      href="https://perpustakaan.tebingtinggikota.go.id/"
     />
     <link
       rel="alternate"
@@ -2377,7 +2377,7 @@
     />
     <meta
       property="og:url"
-      content="https://perpustakaan.tebingtinggikota.go.id/opac/"
+      content="https://perpustakaan.tebingtinggikota.go.id/"
     />
     <meta property="product:price:amount" content="10000" />
     <meta property="product:price:currency" content="IDR" />
@@ -17234,7 +17234,7 @@
           >
           <a
             class="logo"
-            href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+            href="https://perpustakaan.tebingtinggikota.go.id/"
             title=""
             aria-label="store logo"
           >
@@ -17259,7 +17259,7 @@
                   <ul>
                     <li>
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         ><span
                           ><img
                             loading="lazy"
@@ -17272,7 +17272,7 @@
                     </li>
                     <li>
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         ><img
                           loading="lazy"
                           width="22"
@@ -17284,7 +17284,7 @@
                     </li>
                     <li>
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         ><span
                           ><img
                             loading="lazy"
@@ -17297,7 +17297,7 @@
                     </li>
                     <li>
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         target="_blank"
                         ><span
                           ><img
@@ -17333,7 +17333,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="font-size: 12px"
                         class="nav-anchor"
                         ><span>SLOT88</span><span class="caret"></span
@@ -20303,7 +20303,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="font-size: 12px; white-space: nowrap"
                         class="nav-anchor"
                         ><span>SITUS GACOR</span><span class="caret"></span
@@ -20720,7 +20720,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="font-size: 12px; white-space: nowrap"
                         class="nav-anchor"
                         ><span>SLOT RESMI</span><span class="caret"></span
@@ -20950,7 +20950,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="font-size: 12px; white-space: nowrap"
                         class="nav-anchor"
                         ><span>SLOT ONLINE</span><span class="caret"></span
@@ -21100,7 +21100,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="font-size: 12px; white-space: nowrap"
                         class="nav-anchor"
                         ><span>SLOT GACOR</span><span class="caret"></span
@@ -21365,7 +21365,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="
                           max-lines: 2;
                           line-height: 20px;
@@ -21601,7 +21601,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         style="white-space: nowrap; font-size: 12px"
                         class="nav-anchor"
                         ><span>SLOT88 RESMI</span><span class="caret"></span
@@ -21717,7 +21717,7 @@
                       class="nav-item level0 submenu-left subhover dropdown level-top"
                     >
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         target="_self"
                         data-hover-color="#fff !important"
                         data-hover-bgcolor="#db9107 !important"
@@ -22746,7 +22746,7 @@
           >
             <a
               class="action toggle switcher-trigger"
-              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
               title="Akun Saya"
               data-mage-init='{"dropdown":{"dialog":null}}'
               data-toggle="dropdown"
@@ -22790,12 +22790,12 @@
                 </script>
 
                 <li style="display: none">
-                  <a href="https://perpustakaan.tebingtinggikota.go.id/opac/">
+                  <a href="https://perpustakaan.tebingtinggikota.go.id/">
                     buat akun
                   </a>
                 </li>
                 <li>
-                  <a href="https://perpustakaan.tebingtinggikota.go.id/opac/">
+                  <a href="https://perpustakaan.tebingtinggikota.go.id/">
                     <span>Bantuan</span>
                   </a>
                 </li>
@@ -22808,7 +22808,7 @@
           >
             <a
               class="action toggle switcher-trigger"
-              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
               title="Daftar Keinginan"
             >
               <span class="abs-visually-hidden">Daftar Keinginan</span>
@@ -22818,7 +22818,7 @@
           <div data-block="minicart" class="minicart-wrapper">
             <a
               class="action showcart"
-              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
               data-bind="scope: 'minicart_content'"
             >
               <span
@@ -23072,7 +23072,7 @@
                               "@context": "https://schema.org",
                               "@type": "Organization",
                               "name": "SLOT88",
-                              "url": "https://perpustakaan.tebingtinggikota.go.id/opac/",
+                              "url": "https://perpustakaan.tebingtinggikota.go.id/",
                               "logo": "https://s13.gifyu.com/images/bdtv4.png",
                               "description": "SLOT88 kini kembali dengan link slot gacor gampang menang yang siap memberikan jp maxwin dengan mudah dan bantuan resmi dari provider terpercaya slot777 malam hari ini.",
                               "foundingDate": "2024",
@@ -23147,19 +23147,19 @@
                                   "@type": "ListItem",
                                   "position": 1,
                                   "name": "SLOT88",
-                                  "item": "https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                  "item": "https://perpustakaan.tebingtinggikota.go.id/"
                                 },
                                 {
                                   "@type": "ListItem",
                                   "position": 2,
                                   "name": "SLOT GACOR",
-                                  "item": "https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                  "item": "https://perpustakaan.tebingtinggikota.go.id/"
                                 },
                                 {
                                   "@type": "ListItem",
                                   "position": 3,
                                   "name": "SLOT ONLINE",
-                                  "item": "https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                  "item": "https://perpustakaan.tebingtinggikota.go.id/"
                                 }
                               ]
                             }
@@ -23427,7 +23427,7 @@
                   <div class="product-add-form">
                     <form
                       data-product-sku="52135545-AYO01"
-                      action="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      action="https://perpustakaan.tebingtinggikota.go.id/"
                       method="post"
                       id="product_addtocart_form"
                       novalidate="true"
@@ -23719,7 +23719,7 @@ function myFunction() {
                     </div>
 
                     <a
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       class="prev"
                       tabindex="-1"
                     >
@@ -23738,7 +23738,7 @@ function myFunction() {
                       </svg>
                     </a>
                     <a
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       class="next"
                       tabindex="-1"
                     >
@@ -23759,7 +23759,7 @@ function myFunction() {
 
                     <div class="controls">
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         class="zoom zoom-in"
                       >
                         <svg
@@ -23777,7 +23777,7 @@ function myFunction() {
                         </svg>
                       </a>
                       <a
-                        href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         class="zoom zoom-out"
                       >
                         <svg
@@ -23797,7 +23797,7 @@ function myFunction() {
                     </div>
 
                     <a
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       class="close"
                     >
                       <svg
@@ -23819,7 +23819,7 @@ function myFunction() {
                   <div class="thumbnails">
                     <a
                       class="item active"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23832,7 +23832,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23845,7 +23845,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23858,7 +23858,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23871,7 +23871,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23884,7 +23884,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23897,7 +23897,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23910,7 +23910,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -23923,7 +23923,7 @@ function myFunction() {
                     </a>
                     <a
                       class="item"
-                      href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       title="View Image"
                     >
                       <span class="slide-image-container">
@@ -27597,7 +27597,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >Slot88 Resmi</a
                             >
                           </p>
@@ -27610,7 +27610,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >Situs Slot Gacor</a
                             >
                           </p>
@@ -27623,7 +27623,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >Slot Gacor Hari Ini</a
                             >
                           </p>
@@ -27636,7 +27636,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >Slot Online Terbaru</a
                             >
                           </p>
@@ -27649,7 +27649,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >Link Slot Maxwin</a
                             >
                           </p>
@@ -27662,7 +27662,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >refund via store credit</a
                             >
                           </p>
@@ -27675,7 +27675,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >temukan toko terdekat</a
                             >
                           </p>
@@ -27688,7 +27688,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >panduan ukuran</a
                             >
                           </p>
@@ -27718,7 +27718,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >hubungi kami</a
                             >
                           </p>
@@ -27731,7 +27731,7 @@ function myFunction() {
                         >
                           <p>
                             <a
-                              href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                              href="https://perpustakaan.tebingtinggikota.go.id/"
                               >bantuan dan faq</a
                             >
                           </p>
@@ -27756,7 +27756,7 @@ function myFunction() {
                             <div style="display: flex; column-gap: 20px">
                               <a
                                 class="item"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                                 ><img
                                   width="10"
                                   height="19"
@@ -27765,7 +27765,7 @@ function myFunction() {
                               /></a>
                               <a
                                 class="item"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                                 ><img
                                   width="24"
                                   height="25"
@@ -27774,7 +27774,7 @@ function myFunction() {
                               /></a>
                               <a
                                 class="item"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                               >
                                 <img
                                   width="24"
@@ -27882,21 +27882,21 @@ function myFunction() {
                             >
                               <a
                                 class="item"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                                 ><img
                                   src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"
                                   alt="facebook icon"
                               /></a>
                               <a
                                 class="item"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                                 ><img
                                   src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"
                                   alt="instagram icon"
                               /></a>
                               <a
                                 class="item"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                               >
                                 <img
                                   src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"
@@ -27940,7 +27940,7 @@ function myFunction() {
                             <span
                               ><a
                                 target="_blank"
-                                href="https://perpustakaan.tebingtinggikota.go.id/opac/"
+                                href="https://perpustakaan.tebingtinggikota.go.id/"
                                 ><img
                                   loading="lazy"
                                   width="117"
@@ -28047,7 +28047,7 @@ function myFunction() {
                 let datapdp = $("#giftreg-message-pdp");
 
                 let formUrl =
-                  "https://perpustakaan.tebingtinggikota.go.id/opac/";
+                  "https://perpustakaan.tebingtinggikota.go.id/";
 
                 // $('.action.showcart').click(function(){
                 // 	setTimeout(function(){
@@ -28471,7 +28471,7 @@ function myFunction() {
                                   "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                                   "config": {
                                       "multipleWishlistOptions": {
-                                          "createUrl": "https://perpustakaan.tebingtinggikota.go.id/opac/",
+                                          "createUrl": "https://perpustakaan.tebingtinggikota.go.id/",
                                           "wishlistLink": ".action.towishlist"
                                       }
                                   }
