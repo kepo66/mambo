@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="id-ID">
   <head>
-    <link href="https://perpustakaan.tebingtinggikota.go.id/index.php" rel="preconnect" />
+    <link href="https://perpustakaan.tebingtinggikota.go.id/" rel="preconnect" />
     <meta charset="utf-8" />
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
@@ -17,7 +17,7 @@
       content="Slot Gacor Triofus: Slot Demo Pragmatic & PG Soft Mirip Asli"
     />
     <meta name="robots" content="index, follow, nosnippet" />
-    <link rel="canonical" href="https://perpustakaan.tebingtinggikota.go.id/index.php" />
+    <link rel="canonical" href="https://perpustakaan.tebingtinggikota.go.id/" />
     <link rel="amphtml" href="https://tebingtinggi-dtd.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://tebingtinggi-dtd.pages.dev/" />
     <link rel="alternate" href="https://tebingtinggi-dtd.pages.dev/" />
@@ -47,12 +47,12 @@
       name="twitter:description"
       content="Login akses slot demo Pragmatic & PG Soft mirip asli di Triofus. Permainan terbaru slot gacor gampang menang hari ini."
     />
-    <meta name="twitter:url" content="https://perpustakaan.tebingtinggikota.go.id/index.php" />
+    <meta name="twitter:url" content="https://perpustakaan.tebingtinggikota.go.id/" />
     <meta name="twitter:image" content="https://s13.gifyu.com/images/blhk1.png" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Slot Gacor" />
     <meta property="og:locale" content="id_ID" />
-    <meta property="og:url" content="https://perpustakaan.tebingtinggikota.go.id/index.php" />
+    <meta property="og:url" content="https://perpustakaan.tebingtinggikota.go.id/" />
     <meta
       property="og:title"
       content="Slot Gacor Triofus: Slot Demo Pragmatic & PG Soft Mirip Asli"
@@ -1290,9 +1290,9 @@
         "@graph": [
           {
             "@type": "Organization",
-            "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#organization",
+            "@id": "https://perpustakaan.tebingtinggikota.go.id/#organization",
             "name": "Slot Gacor",
-            "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+            "url": "https://perpustakaan.tebingtinggikota.go.id/",
             "logo": "https://s13.gifyu.com/images/blhk1.png",
             "sameAs": [
               "https://facebook.com/slot-gacor",
@@ -1318,25 +1318,25 @@
 
           {
             "@type": "BreadcrumbList",
-            "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#breadcrumb",
+            "@id": "https://perpustakaan.tebingtinggikota.go.id/#breadcrumb",
             "itemListElement": [
               {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Slot Gacor",
-                "item": "https://perpustakaan.tebingtinggikota.go.id/index.php-SLOT777"
+                "item": "https://perpustakaan.tebingtinggikota.go.id/-SLOT777"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Slot",
-                "item": "https://perpustakaan.tebingtinggikota.go.id/index.php-slot"
+                "item": "https://perpustakaan.tebingtinggikota.go.id/-slot"
               },
               {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Slot Demo",
-                "item": "https://perpustakaan.tebingtinggikota.go.id/index.php-slot-gacor"
+                "item": "https://perpustakaan.tebingtinggikota.go.id/-slot-gacor"
               }
             ]
           },
@@ -1353,7 +1353,7 @@
             },
             "sku": "Slot Gacor",
             "category": "Slot Gacor",
-            "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+            "url": "https://perpustakaan.tebingtinggikota.go.id/",
             "aggregateRating": {
               "@type": "AggregateRating",
               "ratingValue": "4.9",
@@ -1397,7 +1397,7 @@
             ],
             "offers": {
               "@type": "Offer",
-              "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+              "url": "https://perpustakaan.tebingtinggikota.go.id/",
               "priceCurrency": "IDR",
               "price": "0",
               "availability": "https://schema.org/InStock"
@@ -1406,7 +1406,7 @@
 
           {
             "@type": "ItemList",
-            "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#merchant-listing",
+            "@id": "https://perpustakaan.tebingtinggikota.go.id/#merchant-listing",
             "name": "Situs Slot Gacor",
             "itemListOrder": "https://schema.org/ItemListOrderDescending",
             "itemListElement": [
@@ -1415,9 +1415,9 @@
                 "position": 1,
                 "item": {
                   "@type": "Product",
-                  "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php/slot-gacor-gampang-menang#product",
+                  "@id": "https://perpustakaan.tebingtinggikota.go.id//slot-gacor-gampang-menang#product",
                   "name": "Slot Gacor Gampang Menang",
-                  "url": "https://perpustakaan.tebingtinggikota.go.id/index.php/slot-gacor-gampang-menang",
+                  "url": "https://perpustakaan.tebingtinggikota.go.id//slot-gacor-gampang-menang",
                   "image": "https://s13.gifyu.com/images/blhvC.png",
                   "description": "Login akses slot demo Pragmatic & PG Soft mirip asli di Triofus. Permainan terbaru slot gacor gampang menang hari ini.",
                   "brand": {
@@ -1432,7 +1432,7 @@
                   },
                   "offers": {
                     "@type": "Offer",
-                    "url": "https://perpustakaan.tebingtinggikota.go.id/index.php/Slot-Gacor",
+                    "url": "https://perpustakaan.tebingtinggikota.go.id//Slot-Gacor",
                     "priceCurrency": "IDR",
                     "price": "0",
                     "availability": "https://schema.org/InStock"
@@ -1444,9 +1444,9 @@
                 "position": 2,
                 "item": {
                   "@type": "Product",
-                  "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php/#product",
+                  "@id": "https://perpustakaan.tebingtinggikota.go.id//#product",
                   "name": "Slot",
-                  "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+                  "url": "https://perpustakaan.tebingtinggikota.go.id/",
                   "image": "https://s13.gifyu.com/images/blhvC.png",
                   "description": "Login akses slot demo Pragmatic & PG Soft mirip asli di Triofus. Permainan terbaru slot gacor gampang menang hari ini.",
                   "brand": {
@@ -1461,7 +1461,7 @@
                   },
                   "offers": {
                     "@type": "Offer",
-                    "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+                    "url": "https://perpustakaan.tebingtinggikota.go.id/",
                     "priceCurrency": "IDR",
                     "price": "0",
                     "availability": "https://schema.org/InStock"
@@ -1473,9 +1473,9 @@
                 "position": 3,
                 "item": {
                   "@type": "Product",
-                  "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php/Slot-Gacor#product",
+                  "@id": "https://perpustakaan.tebingtinggikota.go.id//Slot-Gacor#product",
                   "name": "Slot Gacor",
-                  "url": "https://perpustakaan.tebingtinggikota.go.id/index.php/Slot-Gacor",
+                  "url": "https://perpustakaan.tebingtinggikota.go.id//Slot-Gacor",
                   "image": "https://s13.gifyu.com/images/blhvC.png",
                   "description": "Login akses slot demo Pragmatic & PG Soft mirip asli di Triofus. Permainan terbaru slot gacor gampang menang hari ini.",
                   "brand": {
@@ -1490,7 +1490,7 @@
                   },
                   "offers": {
                     "@type": "Offer",
-                    "url": "https://perpustakaan.tebingtinggikota.go.id/index.php/Slot-Gacor-Maxwin",
+                    "url": "https://perpustakaan.tebingtinggikota.go.id//Slot-Gacor-Maxwin",
                     "priceCurrency": "IDR",
                     "price": "0",
                     "availability": "https://schema.org/InStock"
@@ -1564,27 +1564,27 @@
         "@graph": [
           {
             "@type": "Organization",
-            "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#org",
+            "@id": "https://perpustakaan.tebingtinggikota.go.id/#org",
             "name": "Slot Gacor",
-            "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+            "url": "https://perpustakaan.tebingtinggikota.go.id/",
             "logo": "https://s13.gifyu.com/images/blhvC.png"
           },
           {
             "@type": "WebSite",
-            "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#website",
-            "url": "https://perpustakaan.tebingtinggikota.go.id/index.php",
+            "@id": "https://perpustakaan.tebingtinggikota.go.id/#website",
+            "url": "https://perpustakaan.tebingtinggikota.go.id/",
             "name": "Slot Gacor",
-            "publisher": { "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#org" },
+            "publisher": { "@id": "https://perpustakaan.tebingtinggikota.go.id/#org" },
             "inLanguage": "id-ID",
             "potentialAction": {
               "@type": "SearchAction",
-              "target": "https://perpustakaan.tebingtinggikota.go.id/index.php?s={search_term_string}",
+              "target": "https://perpustakaan.tebingtinggikota.go.id/?s={search_term_string}",
               "query-input": "required name=search_term_string"
             }
           },
           {
             "@type": "SoftwareApplication",
-            "@id": "https://perpustakaan.tebingtinggikota.go.id/index.php#app",
+            "@id": "https://perpustakaan.tebingtinggikota.go.id/#app",
             "name": "slot777",
             "applicationCategory": "GameApplication",
             "operatingSystem": "Android, iOS, Windows",
@@ -1858,7 +1858,7 @@
                 an-tr="nv00_gnb-product detail-l0-navigation2"
                 aria-label="SLOT"
                 class="nv00-gnb-v4__logo"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
               >
                 <img src="https://s13.gifyu.com/images/blhk1.png" alt="" width="200" height="56" />
               </a>
@@ -2706,7 +2706,7 @@
                         an-tr="nv00_gnb-product detail-l0-navigation2"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                       >
                         <span
@@ -2742,7 +2742,7 @@
                         an-tr="nv00_gnb-product detail-l0-navigation2"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                       >
                         <span class="nv00-gnb-v4__l0-menu-text">
@@ -2771,7 +2771,7 @@
                         an-tr="nv00_gnb-product detail-l0-navigation2"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                       >
                         <span class="nv00-gnb-v4__l0-menu-text">
@@ -2800,7 +2800,7 @@
                         an-tr="nv00_gnb-product detail-l0-navigation2"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                       >
                         <span class="nv00-gnb-v4__l0-menu-text"> PGsoft </span>
@@ -2827,7 +2827,7 @@
                         an-tr="nv00_gnb-product detail-l0-navigation2"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                       >
                         <span class="nv00-gnb-v4__l0-menu-text">
@@ -2856,7 +2856,7 @@
                         an-tr="nv00_gnb-product detail-l0-navigation2"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                       >
                         <span class="nv00-gnb-v4__l0-menu-text">
@@ -2922,7 +2922,7 @@
                         aria-label="Slot Daftar. Buka di Tab Baru"
                         class="nv00-gnb-v4__l0-menu-link"
                         data-js-action="l0MenuBtn"
-                        href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                        href="https://perpustakaan.tebingtinggikota.go.id/"
                         role="menuitem"
                         target="_blank"
                       >
@@ -2936,8 +2936,8 @@
                   class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login"
                 >
                   <a
-                    data-linkinfo="https://perpustakaan.tebingtinggikota.go.id/index.php"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    data-linkinfo="https://perpustakaan.tebingtinggikota.go.id/"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="menuitem"
                   >
                     Login/Sign-Up
@@ -2949,7 +2949,7 @@
                     an-tr="nv00_gnb-account-account"
                     aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards"
                     class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="menuitem"
                   >
                     Receive up to 5% of your purchase back in points.
@@ -2997,7 +2997,7 @@
                     an-tr="nv00_gnb-account-account"
                     aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards"
                     class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="menuitem"
                   >
                     Receive up to 5% of your purchase back in points.
@@ -3108,14 +3108,14 @@
                       <div class="nv00-gnb-v4__utility-menu-wrap">
                         <a
                           class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-                          href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                          href="https://perpustakaan.tebingtinggikota.go.id/"
                           role="menuitem"
                           target="_self"
                           rel="noopener noreferrer"
                           onclick="
                             event.stopImmediatePropagation();
                             event.preventDefault();
-                            window.location.href = 'https://perpustakaan.tebingtinggikota.go.id/index.php';
+                            window.location.href = 'https://perpustakaan.tebingtinggikota.go.id/';
                             return false;
                           "
                         >
@@ -3123,7 +3123,7 @@
                         </a>
                         <a
                           class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                          href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                          href="https://perpustakaan.tebingtinggikota.go.id/"
                           role="menuitem"
                         >
                           Receive up to 5% of your purchase back in points.
@@ -3181,7 +3181,7 @@
                           an-tr="nv00_gnb-product detail-account-account"
                           aria-label="SLOT"
                           class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu"
-                          href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                          href="https://perpustakaan.tebingtinggikota.go.id/"
                           role="menuitem"
                         >
                           SLOT
@@ -3250,7 +3250,7 @@
                         </a>
                         <a
                           class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                          href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                          href="https://perpustakaan.tebingtinggikota.go.id/"
                           role="menuitem"
                         >
                           Receive up to 5% of your purchase back in points.
@@ -4309,13 +4309,13 @@
           </div>
           <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
             <a
-              href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
               class="cta cta--contained cta--emphasis cta--2line add-special-tagging"
             >
               Masuk
             </a>
             <a
-              href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
               class="cta cta--contained cta--emphasis cta--2line add-special-tagging"
             >
               Daftar
@@ -5035,7 +5035,7 @@
                     <a
                       aria-label="Link Title"
                       class="cta cta--contained cta--emphasis"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                     >
                       Add to cart
                     </a>
@@ -5289,7 +5289,7 @@
                         <a
                           aria-label="Link Title"
                           class="cta cta--underline cta--black cta--icon"
-                          href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                          href="https://perpustakaan.tebingtinggikota.go.id/"
                           target="_blank"
                         >
                           Product detail
@@ -8311,7 +8311,7 @@
               <div class="cost-box__cta-wrap">
                 <span class="cost-box__cta">
                   <a
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     class="cta cta--contained cta--emphasis add-special-tagging"
                   >
                     Masuk/Daftar
@@ -13795,7 +13795,7 @@
               an-la="breadcrumb:home"
               an-tr="nv03_breadcrumb-product detail-text-breadcrumb"
               aria-label="Home"
-              href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
             >
               <span class="breadcrumb__text-desktop">
                 Slot Gacor <span style="margin-left: 15px">&gt;</span>
@@ -13815,7 +13815,7 @@
               an-la="breadcrumb:mobile"
               an-tr="nv03_breadcrumb-product detail-text-breadcrumb"
               aria-label="Mobile"
-              href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
             >
               <span class="breadcrumb__text-desktop">
                 SLOT <span style="margin-left: 15px">&gt;</span>
@@ -13835,7 +13835,7 @@
               an-la="breadcrumb:smartphones"
               an-tr="nv03_breadcrumb-product detail-text-breadcrumb"
               aria-label="Smartphones"
-              href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
             >
               <span class="breadcrumb__text-desktop"> Slot Gacor </span>
               <span class="breadcrumb__text-mobile"> Situs Slot Gacor </span>
@@ -13983,7 +13983,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Slot
@@ -13992,7 +13992,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Slot Gacor
@@ -14001,7 +14001,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Slot Demo
@@ -14010,7 +14010,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Pragmatic Play
@@ -14019,7 +14019,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       PGsoft
@@ -14028,7 +14028,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Link Gacor
@@ -14037,7 +14037,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Slot Online
@@ -14046,7 +14046,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Slot
@@ -14092,7 +14092,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Promo &amp; Bonus Harian
@@ -14101,7 +14101,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Turnamen &amp; Event
@@ -14110,7 +14110,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Program VIP &amp; Cashback
@@ -14119,7 +14119,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Metode Pembayaran
@@ -14128,7 +14128,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Fitur Deposit
@@ -14137,7 +14137,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Fitur Withdraw
@@ -14146,7 +14146,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Program Referral
@@ -14193,7 +14193,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Pusat Bantuan
@@ -14202,7 +14202,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Live Chat 24/7
@@ -14211,7 +14211,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       WhatsApp Support
@@ -14220,7 +14220,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       FAQ
@@ -14229,7 +14229,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Kebijakan Privasi
@@ -14238,7 +14238,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Syarat &amp; Ketentuan
@@ -14247,7 +14247,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Responsible Gaming
@@ -14321,7 +14321,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Riwayat Transaksi
@@ -14330,7 +14330,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Fitur Verifikasi
@@ -14339,7 +14339,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Program VIP
@@ -14381,7 +14381,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Fitur Akses
@@ -14390,7 +14390,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Fitur Pemula
@@ -14399,7 +14399,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Aturan &amp; Kebijakan
@@ -14408,7 +14408,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Kontak Resmi
@@ -14447,7 +14447,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Tentang Slot Online
@@ -14456,7 +14456,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Kenapa Pilih Slot Gacor
@@ -14465,7 +14465,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Partner &amp; Affiliate
@@ -14474,7 +14474,7 @@
                   <li class="footer-category__item" role="listitem">
                     <a
                       class="footer-category__link"
-                      href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                      href="https://perpustakaan.tebingtinggikota.go.id/"
                       an-as=""
                     >
                       Brand &amp; Identitas
@@ -14497,7 +14497,7 @@
             <div class="footer-language">
               <a
                 class="footer-language__anchor"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 an-as=""
               >
                 Indonesia / Bahasa Indonesia
@@ -14515,7 +14515,7 @@
             <div class="footer-language">
               <a
                 class="footer-language__anchor"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 an-as=""
               >
                 Indonesia / Bahasa Indonesia
@@ -18712,7 +18712,7 @@ target.insertBefore(s, target.firstChild);
             <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
             <a
               class="cta cta--outlined cta--black"
-              href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+              href="https://perpustakaan.tebingtinggikota.go.id/"
               title="Tutup"
             >
               Tutup
@@ -19169,7 +19169,7 @@ target.insertBefore(s, target.firstChild);
             <div class="hubble-care-popup__alert-button">
               <a
                 class="cta cta--contained cta--emphasis"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 title="Bestätigen"
               >
                 Bestätigen
@@ -19199,7 +19199,7 @@ target.insertBefore(s, target.firstChild);
             <div class="hubble-care-popup__alert-button">
               <a
                 class="cta cta--contained cta--emphasis"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 title="Bestätigen"
               >
                 Bestätigen
@@ -19512,7 +19512,7 @@ target.insertBefore(s, target.firstChild);
               <a
                 aria-label="Link Title"
                 class="cta cta--outlined cta--black"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 role="button"
               >
               </a>
@@ -19520,7 +19520,7 @@ target.insertBefore(s, target.firstChild);
             <div class="wishlist-popup__cta">
               <a
                 class="cta cta--contained cta--emphasis"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 role="button"
               >
               </a>
@@ -19633,7 +19633,7 @@ target.insertBefore(s, target.firstChild);
                     an-la="samsung warranty:close"
                     an-tr="header(pim)_service option selector-product detail-popup-button"
                     class="cta cta--outlined cta--black"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="button"
                   >
                     Tutup
@@ -19646,7 +19646,7 @@ target.insertBefore(s, target.firstChild);
                     an-la="samsung warranty:confirm"
                     an-tr="header(pim)_service option selector-product detail-popup-button"
                     class="cta cta--contained cta--emphasis cta--disabled"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="button"
                   >
                     Yakin
@@ -19678,7 +19678,7 @@ target.insertBefore(s, target.firstChild);
             <div class="extended-warranty-popup__alert-button">
               <a
                 class="cta cta--contained cta--emphasis"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
               >
                 Bestätigen
               </a>
@@ -19707,7 +19707,7 @@ target.insertBefore(s, target.firstChild);
             <div class="extended-warranty-popup__alert-button">
               <a
                 class="cta cta--contained cta--emphasis"
-                href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                href="https://perpustakaan.tebingtinggikota.go.id/"
                 title=""
               >
                 Bestätigen
@@ -19778,7 +19778,7 @@ target.insertBefore(s, target.firstChild);
                 <div class="extended-warranty-popup-vd__button-item">
                   <a
                     class="cta cta--outlined cta--black"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="button"
                   >
                     Tutup
@@ -19787,7 +19787,7 @@ target.insertBefore(s, target.firstChild);
                 <div class="extended-warranty-popup-vd__button-item">
                   <a
                     class="cta cta--contained cta--emphasis cta--disabled"
-                    href="https://perpustakaan.tebingtinggikota.go.id/index.php"
+                    href="https://perpustakaan.tebingtinggikota.go.id/"
                     role="button"
                   >
                     Yakin
