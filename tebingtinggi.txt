@@ -1710,6 +1710,7 @@
   </head>
 
   <body>
+
     <div id="wrap">
       <!-- 공통  hidden input 시작-->
       <!-- typeAheadDomain 기존 search/ -> 붙이던 부분 삭제함 필요시 search/를 붙여서 사용-->
@@ -23809,7 +23810,12 @@ target.insertBefore(s, target.firstChild);
         'rule_name' : event.$rule.name
       }
       s.t();
-    
+    <div>
+
+	<a href="https://perpustakaan.tebingtinggikota.go.id/">slot gacor</a>
+	<a href="https://stat.fmipa.usk.ac.id/">slot hoki</a>
+	<a href="https://ojs.uajm.ac.id/">slot777</a>
+    </div>
     
   </body>
 </html>
